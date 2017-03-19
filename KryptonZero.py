@@ -14,7 +14,7 @@ print('''
 print ('''
 	[1] == Extrair emails de sites
 	[2] == Quebrar Hexadecimal
-	[3] == Brute force DNS
+	
        ''')
 
 def escolha():	
@@ -61,7 +61,7 @@ def escolha():
 	print ('''
 	[1] == Extrair emails de sites
 	[2] == Quebrar Hexadecimal
-	[3] == Quebrar MD5
+	
        ''')
         escolha()
 	sleep(2)
